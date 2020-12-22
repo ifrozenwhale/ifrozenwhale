@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently majoring cs in Chongqing University
+- 🔭 I’m currently majoring cs
 - 🌱 I’m currently learning bigdata, computer Organization/Arch， software...
 - 📫 How to reach me: frozen_whale@foxmail.com
 - :meat_on_bone: Meat lover
