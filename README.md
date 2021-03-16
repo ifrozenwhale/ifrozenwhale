@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently majoring cs
-- 🌱 I’m currently learning bigdata, computer Organization/Arch， software...
+- 🌱 I’m currently learning bigdata
 - 📫 How to reach me: frozenwhale@vip.qq.com
 - :meat_on_bone: Meat lover
