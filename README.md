@@ -5,6 +5,6 @@
 - 🔭 I’m currently majoring cs
 - 🌱 I’m currently learning bigdata
 - 📫 How to reach me: frozenwhale@vip.qq.com
-- 📖 My blog: [沃若的森林](http://frozenwhale.top)
-- 📖 My project introduction: [project](http://frozenwhale.top/project)
+- 📖 My blog: [沃若的森林](https://ifrozenwhale.github.io)
+- 📖 My project introduction: [project](https://ifrozenwhale.github.io/project)
 - :meat_on_bone: Meat lover
