@@ -2,8 +2,5 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently majoring cs in CQU, and will continue my research in BUAA in 2022 Fall.
-- 🌱 I’m currently learning about computer graphics, 3D computer vision and deep learning.
-- 📫 How to reach me: frozenwhale@vip.qq.com
-- 📖 My blog: [沃若的森林](https://ifrozenwhale.github.io)
-- :meat_on_bone: Meat lover
+- 🔭 I’m currently majoring cs in BUAA.
+- 🌱 I’m currently learning about 3d point cloud (computer graphics, 3D computer vision) in VRlab, buaa.
