@@ -2,5 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently majoring cs in BUAA.
-- 🌱 I’m currently learning about 3d point cloud (computer graphics, 3D computer vision) in VRlab, buaa.
+- 🔭 Graduated from CQU with a bachelor’s degree.
+- 🔭 Studying at BUAA for a master’s degree.
+- 🌱 Learning about 3d point cloud (computer graphics, 3D computer vision) in VRlab, BUAA.
