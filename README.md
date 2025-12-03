@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 🎓 Master’s degree from BUAA, honored as a Beijing Outstanding Graduate.
+
 🔭 Researching 3D point clouds and related areas at VRlab, BUAA.
+
 💼 Internship experience at Megvii, Baidu, CAICT (data elements), and ICBC Head Office (data management).
+
 🏦 Currently working at the Head Office of a Big Four Bank.
