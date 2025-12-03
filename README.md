@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 Graduated from CQU with a bachelor’s degree.
-- 🔭 Studying at BUAA for a master’s degree.
-- 🌱 Learning about 3d point cloud (computer graphics, 3D computer vision) in VRlab, BUAA.
+🎓 Master’s degree from BUAA, recognized as Beijing Outstanding Graduate.
+
+🔭 Researching 3D point cloud, including computer graphics and 3D scene understanding, at VRlab, BUAA.
+
+💼 Internship experience at Megvii, Baidu, CAICT, and ICBC (Head Office), focusing on computer vision, multimodal learning, and large-scale data processing.
+
+🏦 Currently working at the Head Office of one of China’s Big Four Banks, engaged in digital technology and AI-driven financial innovation.
